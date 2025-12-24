@@ -1,10 +1,10 @@
 {
   "name": "camera-hidden-backend",
   "version": "1.0.0",
+  "description": "Hidden camera backend using Node, Express, MongoDB & Cloudinary",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "cloudinary": "^1.41.3",
